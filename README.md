@@ -9,7 +9,7 @@
 
 <p align="center">
   🎓 Ph.D. Student in Computer Science @ Wayne State University  
-  🧠 Trustworthy AI | Improving Safety, helpfulness, and robustness of LLMs  
+  🧠 Trustworthy AI | Improving Safety and Robustness of LLMs  
 </p>
 <p align="center">
   📧 Email: <a href="mailto:xiangyu@wayne.edu">xiangyu[@]wayne.edu</a>
