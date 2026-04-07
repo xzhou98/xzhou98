@@ -3,9 +3,9 @@
 </h1>
 
 
-<!-- <p align="center">
-  <a href=""><strong>🌐 Explore my full homepage →</strong></a>
-</p> -->
+<p align="center">
+  <a href="https://xzhou98.github.io/"><strong>🌐 Explore my full homepage →</strong></a>
+</p>
 
 <p align="center">
   🎓 Ph.D. Student in Computer Science @ Wayne State University  
